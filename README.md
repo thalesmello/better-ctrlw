@@ -15,7 +15,7 @@ in which user [`samson`][2] commented he created [a Chrome extension][3] precise
 2. Assign a hotkey to close the current tab (I like to use `Alt-w` to mimic Mac OS's `Cmd+w`)
 
 The problem with his extension is that it only works with the currently active tab,
-and I regularly use `Shift + Clich` to highlight a bunch of tabs, so that I can close them
+and I regularly use `Shift + Click` to highlight a bunch of tabs, so that I can close them
 all at once. His plugin didn't support multiple highlighted tabs, so I created my own.
 
 # Usage
