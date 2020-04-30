@@ -5,6 +5,7 @@
     "do-nothing": {"description": "Do absolutely nothing"}
   },
   "description": "Closes highlighted tabs. To replace ctrl-w on Windows/Linux for Vim users!",
+  "icons": {"128": "icons/128.png"},
   "manifest_version": 2,
   "name": "Better Ctrl-W",
   "version": "0.1"
