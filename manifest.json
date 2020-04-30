@@ -1,0 +1,11 @@
+{
+  "background": {"persistent": false, "scripts": ["background.js"]},
+  "commands": {
+    "close-highlighted-windows": {"description": "Close highlighted tabs"},
+    "do-nothing": {"description": "Do absolutely nothing"}
+  },
+  "description": "Closes highlighted tabs. To replace ctrl-w on Windows/Linux for Vim users!",
+  "manifest_version": 2,
+  "name": "Better Ctrl-W",
+  "version": "0.1"
+}
