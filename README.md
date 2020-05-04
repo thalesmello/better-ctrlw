@@ -18,6 +18,10 @@ The problem with his extension is that it only works with the currently active t
 and I regularly use `Shift + Click` to highlight a bunch of tabs, so that I can close them
 all at once. His plugin didn't support multiple highlighted tabs, so I created my own.
 
+# Install
+
+You can install better-ctrlw via the [Chrome Web Store page][4].
+
 # Usage
 
 To use this plugin as it's intended, you have to set up the keyboard shortcuts after
@@ -32,3 +36,4 @@ and you will be able to use `Alt-w` to close either the current of all highlight
 [1]: https://superuser.com/a/1207752
 [2]: https://superuser.com/users/276658/samson
 [3]: https://chrome.google.com/webstore/detail/ctrlw/goejokenmdamcapadhgghgpeeaeaaedc?hl=en
+[4]: https://chrome.google.com/webstore/detail/better-ctrl-w/jfknaapblnppeflfamkegnnonlfgokhp/
